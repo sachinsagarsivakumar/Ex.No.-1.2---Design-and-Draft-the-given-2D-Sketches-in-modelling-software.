@@ -1,5 +1,10 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
-
+## DATE:
+27.01.2023
+## NAME :
+SACHIN SAGAR S
+## REG.NO:
+22009268
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
@@ -36,7 +41,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ ![EX2 1](https://user-images.githubusercontent.com/119475862/215001413-9f3c55d7-2feb-428f-adbb-3eb1e0963c69.png)
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
