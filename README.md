@@ -41,6 +41,7 @@ SACHIN SAGAR S
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+![1 2](https://user-images.githubusercontent.com/119475862/215242500-bb75fe48-c9ef-4f07-b5f8-22c87ac5b2e1.png)
  
 
  
