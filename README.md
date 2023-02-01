@@ -41,9 +41,7 @@ SACHIN SAGAR S
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
-![1 2](https://user-images.githubusercontent.com/119475862/215242500-bb75fe48-c9ef-4f07-b5f8-22c87ac5b2e1.png)
- 
-
+![1 2 EDM](https://user-images.githubusercontent.com/119475862/216195665-4e19fa10-aab3-4763-95e0-3fda3a0f65da.png)
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
